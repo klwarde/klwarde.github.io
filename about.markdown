@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Kathy Warde, a Technical Writer from Australia. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I specialise in creating precise, user-focused documentation that bridges the gap between technical concepts and real-world users. I’ve collaborated with diverse teams to produce everything from user guides and operational documents to business requirement specifications—all delivered with a meticulous eye for detail.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+What sets me apart? My ability to chip away at a task, and transform intricate details into content that informs, empowers, and delights.
 
+Beyond documentation, I’m a lifelong learner who enjoys delving into new technologies, exploring creative projects, and finding innovative ways to communicate. I hope this portfolio showcases not just what I do, but the passion and curiosity that fuel my work. 
 
-[jekyll-organization]: https://github.com/jekyll
+Check out my creative website too for some of my <a href = "https://www.quillshadow.com/infographics/mitochondria-sketchnote"> infographic and sketch note projects</a>.
+

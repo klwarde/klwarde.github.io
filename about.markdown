@@ -12,5 +12,3 @@ What sets me apart? My ability to chip away at a task, and transform intricate d
 
 Beyond documentation, I’m a lifelong learner who enjoys delving into new technologies, exploring creative projects, and finding innovative ways to communicate. I hope this portfolio showcases not just what I do, but the passion and curiosity that fuel my work. 
 
-Samples of my work to come soon. In the meantime, check out my creative website for <a href = "https://www.quillshadow.com/infographics/mitochondria-sketchnote"> infographic and sketch note projects</a> that demonstrate my visual communication skills, passion for learning and knowledge sharing, and goal of making complex information accessible and engaging to myself and others.
-
